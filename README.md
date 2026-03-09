@@ -26,7 +26,7 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [ ] git branch
+- [x] git branch
 
 Документація з використання Git розміщена за [посиланням](https://git-scm.com/doc)
 
